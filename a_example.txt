@@ -1,0 +1,10 @@
+4
+H 3 cat beach sun
+V 2 selfie smile
+V 2 garden selfie
+H 2 garden cat
+6
+H 3 dog beach sun
+V 2 selfie smile
+V 2 tree nature
+H 2 garden cat
